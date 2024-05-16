@@ -9,13 +9,11 @@ body {
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
-	max-height: 100vh;
-	overflow: hidden;
 }
 
 /* Dark mode looking scrollbar */
 ::-webkit-scrollbar {
-	width: 8px;
+	width: 1px;
 }
 ::-webkit-scrollbar-track {
 	background: #555;

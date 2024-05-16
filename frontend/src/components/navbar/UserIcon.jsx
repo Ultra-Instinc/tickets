@@ -7,7 +7,7 @@ export default function UserIcon() {
 		<span
 			onClick={logout}
 			title='logout'
-			className='flex h-10 items-center gap-2 cursor-pointer hover:scale-105 duration-300 hover:text-[#BA9180]'>
+			className='flex h-10 items-center gap-2 cursor-pointer hover:scale-105 duration-300 text-[#BA9180]'>
 			<FaUserAlt size={22} />
 		</span>
 	);

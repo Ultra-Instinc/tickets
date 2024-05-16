@@ -22,7 +22,7 @@ export default function Login() {
 				stiffness: 700,
 				damping: 30,
 			}}
-			className='backdrop-filter backdrop-blur-md bg-clip-padding p-6 bg-opacity-10 w-full flex items-center justify-center rounded-lg max-w-96 mx-auto flex-col bg-red-500'>
+			className='backdrop-filter backdrop-blur-md bg-clip-padding p-6 bg-opacity-10 w-full flex items-center justify-center rounded-lg max-w-96 mx-auto flex-col '>
 			<div className='w-full p-6 '>
 				<h1 className='text-3xl font-semibold text-center text-gray-300'>
 					Login

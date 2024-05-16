@@ -42,7 +42,7 @@ export default function Home() {
 				damping: 40,
 				stiffness: 700,
 			}}
-			className='flex'>
+			className='flex items-center justify-center h-[calc(100vh_-_100px)]'>
 			<div className='grid grid-cols-4 gap-4'>
 				{arr.map((item) => (
 					<div
